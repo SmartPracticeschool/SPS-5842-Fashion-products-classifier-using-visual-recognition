@@ -1,0 +1,4 @@
+https://node-red-azkpo-2020-10-14.eu-gb.mybluemix.net/red/#flow/8a99b4d5.c13658
+
+
+https://node-red-azkpo-2020-10-14.eu-gb.mybluemix.net/ui/#!/0?socketid=2TKtCO_eayRYDwWfAAAh
